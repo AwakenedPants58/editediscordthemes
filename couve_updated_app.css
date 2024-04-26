@@ -96,7 +96,7 @@
   color: var(--main-color) !important;
 }
 :root .wrapper_f5f4c9.mention {
-  border-radius: 5px;
+  border-radius: 40px;
 }
 :root .wrapper_f5f4c9:hover::after {
   opacity: 0.2;
