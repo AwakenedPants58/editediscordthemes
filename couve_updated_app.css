@@ -3,6 +3,9 @@
 :root .messagesWrapper_add28b {
   flex-direction: column;
 }
+:root .wrapper__3ed10.avatar__445f3 {
+  border-radius: 200px;
+}
 :root .messagesWrapper_add28b .cozy_f5c119.wrapper_a62503 {
   padding-left: 50px;
 }
