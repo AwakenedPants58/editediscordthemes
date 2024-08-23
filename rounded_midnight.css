@@ -840,7 +840,7 @@ button.button_f67531 /* make user panel buttons round */ {
 }
 .top_eba0ba > .containerPadding_eba0ba {
 	padding: 16px;
-	margin-top: 0px;
+	margin-top: -40px;
 	transition: margin-top var(--unread-bar-transition);
 }
 .top_eba0ba:hover > .containerPadding_eba0ba:hover {
