@@ -647,6 +647,10 @@ button.button_dd4f85 /* small buttons */,
 	margin-left: 6px;
 }
 
+[class^='winButton'] {
+  visibility: hidden;
+}
+
 /* top bar height */
 [class^='typeWindows'] {
 	height: calc(var(--spacing) + 12px);
