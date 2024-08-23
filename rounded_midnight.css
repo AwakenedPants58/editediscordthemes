@@ -1124,7 +1124,7 @@ html.theme-light,
 	--status-warning: var(--yellow-300);
 	--status-warning-background: var(--yellow-300);
 	--status-warning-text: var(--black-500);
-	--text-brand: var(--accent-1);
+	--text-brand: var(--accent-6);
 	--text-danger: var(--red-345);
 	--text-link: var(--accent-1);
 	--text-link-low-saturation: var(--blue-330);
@@ -1161,7 +1161,7 @@ html.theme-light,
 
 	--brand-experiment-400: var(--accent-3); /* loading spinning animation element */
 
-	--green-330: var(--accent-6);
+	--green-330: var(--accent-1);
 	--green-360: var(--accent-3);
 	--green-430: var(--accent-4);
 	--green-500: var(--accent-4);
