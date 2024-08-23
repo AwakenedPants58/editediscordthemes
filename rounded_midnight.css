@@ -20,6 +20,7 @@
 	--accent-3: hsl(190, 70%, 42%); /* accent buttons */
 	--accent-4: hsl(190, 70%, 36%); /* accent buttons when hovered */
 	--accent-5: hsl(190, 70%, 30%); /* accent buttons when clicked */
+	--accent-6: hsl(297, 100%, 50%); /* TEST */
 	--mention: hsla(190, 80%, 52%, 0.1); /* mentions & mention messages */
 	--mention-hover: hsla(190, 80%, 52%, 0.05); /* mentions & mention messages when hovered */
 
@@ -1025,7 +1026,7 @@ html.theme-light,
 	--live-stage-tile-border: hsl(var(--primary-500-hsl) / 0.6);
 	--logo-primary: var(--white-500);
 	--mention-background: var(--mention);
-	--mention-foreground: var(--accent-1);
+	--mention-foreground: var(--accent-6);
 	--modal-background: var(--bg-4);
 	--modal-footer-background: var(--bg-4);
 	--navigator-header-tint: var(--white-500);
@@ -1123,9 +1124,9 @@ html.theme-light,
 	--status-warning: var(--yellow-300);
 	--status-warning-background: var(--yellow-300);
 	--status-warning-text: var(--black-500);
-	--text-brand: var(--accent-1);
+	--text-brand: var(--accent-6);
 	--text-danger: var(--red-345);
-	--text-link: var(--accent-1);
+	--text-link: var(--accent-6);
 	--text-link-low-saturation: var(--blue-330);
 	--text-low-contrast: var(--primary-360);
 	--text-message-preview-low-sat: var(--primary-360);
@@ -1160,7 +1161,7 @@ html.theme-light,
 
 	--brand-experiment-400: var(--accent-3); /* loading spinning animation element */
 
-	--green-330: var(--accent-1);
+	--green-330: var(--accent-6);
 	--green-360: var(--accent-3);
 	--green-430: var(--accent-4);
 	--green-500: var(--accent-4);
