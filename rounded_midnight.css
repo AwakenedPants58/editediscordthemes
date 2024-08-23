@@ -647,6 +647,7 @@ button.button_dd4f85 /* small buttons */,
 	margin-left: 6px;
 }
 
+/* hides windows control buttons (close, minimise, maximise) */
 [class^='winButton'] {
   visibility: hidden;
 }
