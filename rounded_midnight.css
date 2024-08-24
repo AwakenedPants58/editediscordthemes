@@ -172,7 +172,7 @@ div.message_d5deea.replying_d5deea::before /* change reply message bar to neutra
 	background: var(--accent-3);
 }
 .container_cebd1c.checked_cebd1c /* settings checkbuttons */ {
-	background: var(--accent-3) !important;
+	background: color(#44ff00) !important;
 }
 .mention_c10249:active /* NEW unread pill when clicked */ {
 	background: var(--accent-4);
